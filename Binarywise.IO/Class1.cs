@@ -8,5 +8,6 @@ namespace Binarywise.IO
 {
     public class Class1
     {
+        private int test = 1;
     }
 }
